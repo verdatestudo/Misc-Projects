@@ -16,6 +16,7 @@ Todo:
 # fix scatter plot strange bug
 # add assertions, try/except, comments, pylint, tidy comments
 # tidy so that it auto imports from default sheet without any editing
+# line by line, look for optimization.
 '''
 
 import csv
